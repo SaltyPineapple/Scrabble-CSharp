@@ -2,7 +2,7 @@
 
 Hello and Welcome to my Scrabble C Sharp project!
 
-I have created this to practice my skills in data structures and algorithms. 
+I have created this to practice my skills in data structures and algorithms. The main data structures in this project are Arrays and Linked Lists.
 I also am learning the use of external REST/API and I use one for looking up validity of words in a dictionary.
 
 The end goal for this project is to develop a full mobile app. 
